@@ -130,15 +130,4 @@ The JSON storage uses Java's built-in `java.nio.file.Files` class. This is docum
 
 ---
 
-## Demo Tip
 
-For the video presentation, run `QuickChatApp.java` and use the menu in this order:
-
-1. Register a user.
-2. Login with the same credentials.
-3. Select option `1` to send messages.
-4. Select option `4` for stored message features.
-5. In the stored message menu, select option `8` to populate the Part 3 test data.
-6. Demonstrate longest message, search, delete and report.
-7. Run the JUnit tests.
-8. Show GitHub and GitHub Actions.
